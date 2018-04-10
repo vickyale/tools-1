@@ -3,17 +3,20 @@
 		{
 			"path": "packages/analyzer"
 		},
-    {
+		{
 			"path": "packages/cli"
-    },
-    {
+		},
+		{
 			"path": "packages/bundler"
-    },
-    {
-      "path": "packages/build"
+		},
+		{
+			"path": "packages/build"
 		},
 		{
 			"path": "packages/linter"
+		},
+		{
+			"path": "packages/polyserve"
 		},
 		{
 			"path": "packages/project-config"
